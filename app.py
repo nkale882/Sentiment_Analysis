@@ -14,16 +14,16 @@ def sentiment_analysis(text):
     polarity = analysis.polarity
     subjectivity = analysis.subjectivity  # Added to retrieve subjectivity
 
-    # Adjust thresholds based on your needs
-    if polarity > 0.5:
+    if polarity > 0.1:
         sentiment = "😊 Positive"
         sentiment_prob = polarity
-    elif polarity < -0.5:
+    elif polarity < -0.1:
         sentiment = "😠 Negative"
-        sentiment_prob = abs(polarity)  # Use absolute value for negative probability
+        sentiment_prob = abs(polarity)
     else:
         sentiment = "😐 Neutral"
         sentiment_prob = 0.0
+
 
     # Include subjectivity for additional information (optional)
     return sentiment, sentiment_prob, subjectivity
