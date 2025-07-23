@@ -79,9 +79,9 @@ Output:
 Sentiment: 😊 Positive
 Sentiment Probability: 0.625
 ```
-<img width="1045" height="623" alt="image" src="https://github.com/user-attachments/assets/39c85160-5254-4277-9143-9275827b2fc9" />
-<img width="589" height="699" alt="image" src="https://github.com/user-attachments/assets/7d132280-93be-4488-bc7b-d1710d2d3a2c" />
-<img width="1034" height="549" alt="image" src="https://github.com/user-attachments/assets/d35babce-49c5-4aca-8634-3436ee200254" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/39c85160-5254-4277-9143-9275827b2fc9" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/d35babce-49c5-4aca-8634-3436ee200254" />
+<img width="500" height="600" alt="image" position=center src="https://github.com/user-attachments/assets/7d132280-93be-4488-bc7b-d1710d2d3a2c" />
 
 ## 🧪 Troubleshooting
 
